@@ -1,10 +1,10 @@
-# MatchingGame
+# PairsGame
 
-Matching game package for the Ring programming language
+Pairs game package for the Ring programming language
 
 ## Install
 
-	ringpm install matchinggame
+	ringpm install pairsgame
 
 ## Author
 
